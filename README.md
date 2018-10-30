@@ -1,5 +1,4 @@
 # Chapter-7-Extra-12
-# Write the print statement... print(' '.join(pig_latin)) on line 10
 string = input("Enter a sentence: ")
 words = string.strip().split(' ')
 pig_latin = []
